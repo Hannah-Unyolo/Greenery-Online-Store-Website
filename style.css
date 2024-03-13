@@ -1,0 +1,89 @@
+#header{
+    display: flex;
+    gap: 50%;
+    border: solid 2px;
+    background-color: green;
+    color: #ddd 
+}
+
+#link{
+    color: #ddd;
+}
+
+#vallona{
+  display: flex;
+  gap: 20%;
+  margin: 40px;
+}
+.topnav {
+  display: inline-flex;
+  gap: 30px;
+ color: black;
+  
+  }
+  
+  .topnav p:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav p.active {
+    color: green;
+  }
+
+  .content1{
+    display: flex;
+    gap: 5%;
+    margin: 40px;
+  }
+  #img{
+    width:200%;
+  }
+
+  .flowers1{
+    display: flex;
+   
+    margin: 40px;
+    
+  }
+  #imgs{
+    width: 20%;
+  }
+  .heading2{
+    display: flex;
+    gap: 5%;
+    margin: 40px;
+    text-align: center;
+  }
+  .heading2 h1.active{
+color: green;
+  }
+  .content2{
+    display: flex;
+    gap: 5%;
+  }
+
+  .many{
+    display: flex;
+    gap: 2px;
+  }
+  .maluwa{
+    display: flex;
+  }
+  .footer{
+    background-color: whitesmoke;
+    color: black;
+    width: 100%;
+  text-align: center;
+    display: flex;
+    gap: 20%;
+    padding-bottom: 100px;
+  }
+  @media screen (min-width: 280px;) and (max-width: 760;){ 
+    #container{
+      width: 10%;
+    }
+    
+  }
+
+  
