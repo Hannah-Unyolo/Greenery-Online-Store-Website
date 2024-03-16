@@ -42,7 +42,6 @@
 
   .flowers1{
     display: flex;
-   
     margin: 40px;
     
   }
@@ -52,38 +51,92 @@
   .heading2{
     display: flex;
     gap: 5%;
-    margin: 40px;
-    text-align: center;
+    margin-left: 25%;
   }
   .heading2 h1.active{
 color: green;
   }
-  .content2{
-    display: flex;
-    gap: 5%;
+
+  
+  .heading3{
+    text-align: center;
   }
 
-  .many{
+  .content2{
     display: flex;
     gap: 2px;
+    margin: 40px;
   }
-  .maluwa{
-    display: flex;
-  }
+.maluwa{
+  display: flex;
+
+}
+.content3{
+  display: flex;
+  margin: 40px;
+}
+#plant{
+  width: 70%;
+}
+#plant2{
+  width: 40%;
+}
+#stretch{
+  width: 90%;
+  height: 300px;
+  margin: 40px;
+}
+.maluwa2{
+  display: flex;
+  gap: 5%;
+}
+#pat{
+  margin: 40px;
+}
+.content4{
+  display: flex;
+  gap: 20%;
+  margin: 40px;
+}
+.blog{
+  display: flex;
+  gap: 10%;
+  margin: 40px;
+}
+#col{
+  color: green;
+}
+#button{
+  background-color: green;
+  color: #ddd;
+}
+.arrow{
+  display: flex;
+  gap: 5%;
+  margin-left: 30%;
+}
+ 
   .footer{
     background-color: whitesmoke;
     color: black;
     width: 100%;
-  text-align: center;
     display: flex;
-    gap: 20%;
+    gap: 10%;
     padding-bottom: 100px;
+    margin: 60px;
   }
-  @media screen (min-width: 280px;) and (max-width: 760;){ 
-    #container{
-      width: 10%;
-    }
+  .twitter{
+    display: flex;
+  }
+  #container{
+    border: 2px;
+    margin: 5%;
+  }
+  #body{
+    margin: 5%;
+  }
+  #words{
+    width: 30%;
+  }
     
-  }
-
   
