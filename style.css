@@ -138,5 +138,107 @@ color: green;
   #words{
     width: 30%;
   }
+
+  @media (max-width: 2109px) and (min-width: 0px){
+    #header{
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+#vallona{
+  display: flex;
+
+  flex-wrap: wrap;
+  margin: 0;
+}
+.topnav {
+  display: inline-flex;
+flex-wrap: wrap;
+  }
+  .content1{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+  }
+
+  #webpic{
+    width: 100%;
+margin: 0px;
+
+  }
+  #img{
+    width:100%;
+  }
+  .flowers1{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+  }
+
+  .heading2{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+  }
+  .content2{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px;
+  }
+  .maluwa{
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .heading3{
+    margin: 0px;
+  }
+
+  .content3{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px;
+  }
+  #plant{
+    width: 70%;
+  }
+  #plant2{
+    width: 40%;
+  }
+  #stretch{
+    width: 90%;
+    height: 300px;
+    margin: 0px;
+  }
+  .maluwa2{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  #pat{
+    margin: 0px;
+  }
+  .content4{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px;
+  }
+  .blog{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px;
+  }
+  .arrow{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px;
+  }
+  .footer{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px;
+  }
+  }
+    
+  
     
   
